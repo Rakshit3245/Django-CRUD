@@ -1,1 +1,1 @@
-echo "# Django CRUD Operations" > README.md
+echo "# Django CRUD Operations"
